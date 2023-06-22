@@ -1,13 +1,17 @@
 # Souschef
 A mobile application that suggests recipes based on the user's ingredients and dietary restrictions.
 
-Adriano Expedito Silva Schettini			
-Gabriela Limborço Valente			
-João Vitor Lima de Melo			
+Adriano Expedito Silva Schettini		
+
+Gabriela Limborço Valente
+
+João Vitor Lima de Melo		
+
 Nathália de Carvalho Oliveira Cunha Guimarães			
+
 Saul Gustavo Caldeira Melo
 
-
+Screens:
 
 <p float="left">
   <img width="250" src="https://github.com/jvlm/Souschef/assets/91549016/6aecadb2-3ca1-4287-b323-d2f02c9702d8">
